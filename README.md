@@ -79,7 +79,3 @@ Her satır kod, PyMentor’un eliyle dövülür, işlenir ve mükemmelleştirili
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)
 
 ---
-
-## İletişim
-
-> Bu proje, Keremcm tarafından tutkuyla ve vizyonla geliştirilmiştir.
