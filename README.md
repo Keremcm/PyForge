@@ -9,8 +9,7 @@ PyMentor'un gücünü arkasına alan PyForge, klasik IDE kavramını yıkıyor v
 
 ---
 
-## Kime Uygun
-?
+## Kime Uygun? ##
 
 PyForge, sadece geliştiriciler için değil:  
 - **Kodlama bilmeyen** bir kullanıcı olarak yapay zekaya komut vererek uygulamalar geliştirebilirsiniz.  
